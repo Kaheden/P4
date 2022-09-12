@@ -952,6 +952,7 @@ h4 {
 
 .col-sm-4 {
     font-family: "Helvetica";
-    
+    font-weight: bolder;
+    font-size: larger;
 }
 
